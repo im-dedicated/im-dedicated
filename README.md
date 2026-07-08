@@ -16,9 +16,9 @@ I'm Arpit Dwivedi — a passionate developer exploring **Full‑Stack Developmen
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-## 🌟 Featured Projects
--[Demo](https://im-dedicated.github.io/sudoku-game/) ---- [Sudoku Web App](https://github.com/im-dedicated/sudoku-game) — Interactive puzzle with timer and error validation  
--[Demo](https://employee-management-sysytem-kclg.onrender.com/) ---- [Employee Management System](https://github.com/im-dedicated/employee_management_system) — CRUD‑based web app with authentication  
+## 🌟 Featured Projects  
+->[Demo](https://employee-management-sysytem-kclg.onrender.com/) ---- [Employee Management System](https://github.com/im-dedicated/employee_management_system) — CRUD‑based web app with authentication  
+->[Demo](https://im-dedicated.github.io/sudoku-game/) ---- [Sudoku Web App](https://github.com/im-dedicated/sudoku-game) — Interactive puzzle with timer and error validation
 
 ## 📊 GitHub Stats
 ![Arpit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=im-dedicated&show_icons=true&theme=tokyonight)
@@ -26,7 +26,7 @@ I'm Arpit Dwivedi — a passionate developer exploring **Full‑Stack Developmen
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=im-dedicated&theme=tokyonight)
 
 ## 📫 Let's Connect
-💼 Open to collaborations and learning opportunities
-📧 Feel free to reach out if you have interesting ideas!
-🌐 Check out my projects and contributions above
-[LinkedIn](www.linkedin.com/in/arpit-dwivedi-1b87542a1) • [Email](mailto:arpitdwivediiiiii@gmail.com)
+•💼 Open to collaborations and learning opportunities
+•📧 Feel free to reach out if you have interesting ideas!
+•🌐 Check out my projects and contributions above
+•[LinkedIn](www.linkedin.com/in/arpit-dwivedi-1b87542a1) • [Email](mailto:arpitdwivediiiiii@gmail.com)
