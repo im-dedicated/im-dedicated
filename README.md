@@ -25,5 +25,8 @@ I'm Arpit Dwivedi — a passionate developer exploring **Full‑Stack Developmen
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=im-dedicated&layout=compact&theme=tokyonight)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=im-dedicated&theme=tokyonight)
 
-## 📫 Connect With Me
-[LinkedIn](www.linkedin.com/in/arpit-dwivedi-1b87542a1) • [Portfolio](https://im-dedicated.github.io) • [Email](mailto:arpitdwivediiiiii@gmail.com)
+## 📫 Let's Connect
+💼 Open to collaborations and learning opportunities
+📧 Feel free to reach out if you have interesting ideas!
+🌐 Check out my projects and contributions above
+[LinkedIn](www.linkedin.com/in/arpit-dwivedi-1b87542a1) • [Email](mailto:arpitdwivediiiiii@gmail.com)
