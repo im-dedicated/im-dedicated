@@ -14,7 +14,7 @@ I'm Arpit Dwivedi — a passionate developer exploring **Full‑Stack Developmen
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
 
 ## 🌟 Featured Projects  
 ->[Demo](https://employee-management-sysytem-kclg.onrender.com/) ---- [Employee Management System](https://github.com/im-dedicated/employee_management_system) — CRUD‑based web app with authentication  
