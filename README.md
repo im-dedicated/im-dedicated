@@ -14,6 +14,7 @@ I'm Arpit Dwivedi — a passionate developer exploring **Full‑Stack Developmen
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+Learning more....
 
 
 ## 🌟 Featured Projects  
